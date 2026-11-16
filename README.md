@@ -24,7 +24,7 @@ so, aparently during systems this morning on 12/11/2026, i would need to add ele
 - possibly/potentialy another USB C: https://www.aliexpress.com/item/1005008364309354.html?src=google&src=google&albch=shopping&acnt=742-864-1166&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&albagn=888888&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=en1005008364309354&ds_e_product_merchant_id=5852244380&ds_e_product_country=AU&ds_e_product_language=en&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=21819463808&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=21819486122&gclid=Cj0KCQiA-8XXBhDaARIsADnEOrAsSVpObE26plKie1hWXu758QPZzNYfQd2WPZTPE8ZwRNUThgcSBtcaAlbwEALw_wcB
 - 
 
-# rough GANTT chart outline (CHANCE OF BEING CHANGED)
+# rough GANTT chart outline (SUBJECT TO BEING CHANGED)
 <img width="1313" height="661" alt="image" src="https://github.com/user-attachments/assets/85c0b548-e503-482c-a448-005b65f5ca85" />
 
 
